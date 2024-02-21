@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515953699286",
+    "project_id": "homeserviceapp-5fdf4",
+    "storage_bucket": "homeserviceapp-5fdf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515953699286:android:92959a58ee5459d4bbdc77",
+        "android_client_info": {
+          "package_name": "com.example.fixify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_XQNZO3Eq9hKtc8ommZhomjPTDO0QTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
